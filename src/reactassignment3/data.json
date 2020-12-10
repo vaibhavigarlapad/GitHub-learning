@@ -1,0 +1,95 @@
+{
+  "patient": [
+    {
+      "name": "NISHWITHA",
+      "age": 22,
+      "id": 2,
+      "gender": "female",
+      "birthday": 21,
+      "height": 5.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBAGGYfXinE-y1WA9864U8G11kUBwr9ZDZuQ&usqp=CAU"
+    },
+    {
+      "name": "AKHILA",
+      "age": 22,
+      "id": 2,
+      "gender": "female",
+      "birthday": 21,
+      "height": 5.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBAGGYfXinE-y1WA9864U8G11kUBwr9ZDZuQ&usqp=CAU"
+    },
+    {
+      "name": "PRADEEP",
+      "age": 22,
+      "id": 3,
+      "gender": "male",
+      "birthday": 26,
+      "height": 5.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVzk_n2xxB5K1WAWETP7R_Lf5w5rwu_ykQMA&usqp=CAU"
+    },
+    {
+      "name": "MALASHREE",
+      "age": 21,
+      "id": 4,
+      "gender": "female",
+      "birthday": 4,
+      "height": 5.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCN0-PUG9t1l-L4Suz8caUSgc0S96Vm4fGxw&usqp=CAU"
+    },
+    {
+      "name": "ADARSH",
+      "age": 20,
+      "id": 5,
+      "gender": "male",
+      "birthday": 18,
+      "height": 5.6,
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "name": "KARTHIK",
+      "age": 22,
+      "id": 6,
+      "gender": "male",
+      "birthday": 20,
+      "height": 5.8,
+      "image": "https://cdn3.vectorstock.com/i/1000x1000/43/42/happy-cartoon-boy-young-character-portrait-vector-18964342.jpg"
+    },
+    {
+      "name": "CHAITRA",
+      "age": 23,
+      "id": 7,
+      "gender": "female",
+      "birthday": 17,
+      "height": 5.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRu-Exs6gtG1owEYZ3nK7GlSqnHgz540ijY4w&usqp=CAU"
+    },
+    {
+      "name": "BHARATHI",
+      "age": 22,
+      "id": 8,
+      "gender": "female",
+      "birthday": 18,
+      "height": 5.6,
+      "image": "https://p7.hiclipart.com/preview/703/753/176/clip-art-women-openclipart-computer-icons-teacher-teacher-thumbnail.jpg"
+    },
+    {
+      "name": "MITHUN",
+      "age": 22,
+      "id": 9,
+      "birthday": 28,
+      "gender": "male",
+      "height": 5.8,
+      "image": "https://p7.hiclipart.com/preview/703/753/176/clip-art-women-openclipart-computer-icons-teacher-teacher-thumbnail.jpg"
+    },
+    {
+      "name": "MANJU",
+      "age": 24,
+      "id": 10,
+      "gender": "male",
+      "birthday": 10,
+      "height": 5.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbTuZOiXBB2q5K01TVlN9bWOYlydNYVDoQiQ&usqp=CAU"
+    }
+    
+  ]
+}
